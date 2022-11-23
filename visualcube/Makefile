@@ -2,4 +2,4 @@
 deploy:
 	rsync -avz \
 		./src/ \
-		towns.dreamhost.com:~/cubing.net/api/visualcube/
+		cubing_deploy@towns.dreamhost.com:~/visualcube.api.cubing.net/
