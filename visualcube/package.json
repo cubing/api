@@ -1,0 +1,7 @@
+{
+  "@cubing/deploy": {
+    "https://visualcube.api.cubing.net/": {
+      "fromLocalDir": "./src"
+    }
+  }
+}
